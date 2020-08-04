@@ -1,6 +1,23 @@
 # NCH-Software-Keygen
 NCH Software Keygen
 
+
+NCH Software Keygen 1.7
+June 17, 2020
+
+Download | Mirrors
+RELEASE INFO
+File: Keygen.exe
+Version: 1.7
+MD5: 2522f486f58f26f1db8093ea387b7674
+SHA1: 2366c584729814c59ae87e5bb95bf2615d40404f
+CHANGELOG
+Added support for DeskFX Audio Effect Processor and Express Schedule Employee Scheduling.
+Removed "Use new format" checkbox (no longer needed).
+Some minor improvements.
+Misc. Tools
+
+
 v1.5 (2019-04-19)
 + Added support for Reflect Customer Database.
 
